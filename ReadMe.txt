@@ -1,3 +1,5 @@
+Needed modules: numpy
+
 This is a backwards raytracer application written in python3.
 This algorithm generates an image with a large number of light rays.
 

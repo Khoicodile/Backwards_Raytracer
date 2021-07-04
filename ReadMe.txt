@@ -10,5 +10,5 @@ The first image has a non-reflective plane.
 The second one again has a reflective chest plane.
 
 Command to start:
-python3 Raytracer.pys
+python3 Raytracer.py
 
